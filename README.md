@@ -1,6 +1,6 @@
 # npmdoc-wscraper
 
-#### api documentation for  wscraper (v0.1.0)  [![npm package](https://img.shields.io/npm/v/npmdoc-wscraper.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-wscraper) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-wscraper.svg)](https://travis-ci.org/npmdoc/node-npmdoc-wscraper)
+#### basic api documentation for  wscraper (v0.1.0)  [![npm package](https://img.shields.io/npm/v/npmdoc-wscraper.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-wscraper) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-wscraper.svg)](https://travis-ci.org/npmdoc/node-npmdoc-wscraper)
 
 #### wscraper.js: a web scraper agent based on cheerio.js a fast, flexible, and lean implementation of core jQuery; built on top of request.js; inspired by http-agent.js;
 
